@@ -69,7 +69,7 @@ ___
 ### 普通文本
 这是一段普通的文本
 ### 单行文本
-    Hello,大家好，我是果冻虾仁。
+    Hello,大家好，我是高清。
 在一行开头加入1个Tab或者4个空格。
 ### 文本块
 #### 语法1
@@ -84,7 +84,7 @@ ___
 ```
 欢迎到访
 我是C++码农
-你可以在知乎、CSDN、简书搜索【果冻虾仁】找到我
+你可以在知乎、CSDN、简书搜索【高清】找到我
 ```
 该语法也可以实现代码高亮，见[代码高亮](#代码高亮)
 ### 文字高亮
@@ -152,7 +152,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |#|语法|效果|
 |---|----|-----|
-|1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")|
+|1|`[我的博客](http://blog.csdn.net/hdisme "悬停显示")`|[我的博客](http://blog.csdn.net/hdisme "悬停显示")|
 |2|`[我的知乎][zhihu] `|[我的知乎][zhihu] |
 
 语法2由两部分组成：
@@ -175,7 +175,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |#|语法|效果|
 |---|----|:---:|
-|1|`[![weibo-logo]](http://weibo.com/linpiaochen)`|[![weibo-logo]](http://weibo.com/linpiaochen)|
+|1|`[![weibo-logo]](http://weibo.com/hdisme)`|[![weibo-logo]](http://weibo.com/linpiaochen)|
 |2|`[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]`|[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]|
 |3|`[![csdn-logo]][csdn]`|[![csdn-logo]][csdn]|
 
@@ -390,9 +390,9 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 ```
 
 --------------------------------
-[csdn]:http://blog.csdn.net/guodongxiaren "我的博客"
+[csdn]:http://blog.csdn.net/hdisme "我的博客"
 [zhihu]:https://www.zhihu.com/people/jellywong "我的知乎，欢迎关注"
-[weibo]:http://weibo.com/linpiaochen
+[weibo]:http://weibo.com/hdisme
 [baidu-logo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
 [weibo-logo]:/img/weibo.png "点击图片进入我的微博"
 [csdn-logo]:/img/csdn.png "我的CSDN博客"
